@@ -1,0 +1,16 @@
+PODS:
+  - TestRepoModule (0.1.0)
+
+DEPENDENCIES:
+  - TestRepoModule (from `../`)
+
+EXTERNAL SOURCES:
+  TestRepoModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestRepoModule: 3cf37875b1d5b8a87ff12c367ea19348173a4cc8
+
+PODFILE CHECKSUM: a6cbe3a1fc7c3f2d6383fa1fbf13e58579d081fb
+
+COCOAPODS: 1.10.1
